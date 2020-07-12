@@ -1,5 +1,6 @@
-### Hi there 👋
+# I
 
+# 고민중
 <!--
 **ujuc/ujuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
